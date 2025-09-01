@@ -49,8 +49,8 @@ A Master's student at **Northeast Agricultural University (NEAU)**, with a passi
 ---
 <!-- 下面这部分可以展示你的GitHub统计数据，让你的主页更酷 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haerbin-coder&show_icons=true&theme=radical" alt="haerbin-coder's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haerbin-coder&show_icons=true&theme=radical" alt="harukafreeze's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haerbin-coder&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harukafreeze&layout=compact&theme=radical" alt="Top Langs" />
 </p>
