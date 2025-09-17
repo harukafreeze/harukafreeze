@@ -43,7 +43,7 @@ A Master's student at **Northeast Agricultural University (NEAU)**, with a passi
 
 ### 📫 How to Reach Me
 
-- **Email:** [sx.wang0731@outlook.com](mailto:sx.wang0731@outlook.com)
+- **Email:** [xiva0001@163.com](mailto:xiva0001@163.com)
 - **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com/in/your-profile) <!-- 如果有的话 -->
 
 ---
