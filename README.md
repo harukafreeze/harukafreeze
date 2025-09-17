@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A Master's student at **Northeast Agricultural University (NEAU)**, with a passion for leveraging AI to solve challenges in Drug Discovery. My background is in Statistics, and I'm dedicated to bridging rigorous statistical principles with cutting-edge deep learning models.
+A Master's student at **Northeast Agricultural University (NEAU)**, with a passion for leveraging AI to solve challenges. My background is in Statistics, and I'm dedicated to bridging rigorous statistical principles with cutting-edge deep learning models.
 
 ---
 
