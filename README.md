@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 A student at **Northeast Agricultural University (NEAU)**, with a passion for leveraging AI to solve challenges. My background is in Statistics, and I'm dedicated to bridging rigorous statistical principles with cutting-edge deep learning models.
+
 Now(2025.10.18),the PRISM-DDI is still my first and favorite object.Although it still need to be completed,I would be proud of it.
 ---
 
