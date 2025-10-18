@@ -44,6 +44,7 @@ A student at **Northeast Agricultural University (NEAU)**, with a passion for le
 ### 📫 How to Reach Me
 
 - **Email:** [xiva0001@163.com](mailto:xiva0001@163.com)
+- **Vice Email:** [sx.wang0731@outlook.com](mailto:sx.wang0731@outlook.com)
 
 ---
 <!-- 下面这部分可以展示你的GitHub统计数据，让你的主页更酷 -->
