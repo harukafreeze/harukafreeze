@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 🌱 What I'm Currently Focusing On
 
-- 🔭 Deepening my understanding of **Graph Neural Networks (GNNs)** for molecular property prediction.
-- 🌱 Building a solid foundation in **Data Structures and Algorithms**.
-- 👯 Exploring the intersection of **Causal Inference** and **Explainable AI (XAI)** in bioinformatics.
+- 🔭 Deepening my understanding of Graph Neural Networks for molecular property prediction.
+- 🌱 Building a solid foundation in Data Structures and Algorithms.
+- 👯 Exploring the intersection of Causal Inference and Explainable AI (XAI) in bioinformatics.
 - 💬 Ask me about anything related to Statistics, Machine Learning, or my journey into computational drug design.
 
 ---
