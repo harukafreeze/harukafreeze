@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A student at **Northeast Agricultural University (NEAU)**, with a passion for leveraging AI to solve challenges. My background is in Statistics, and I'm dedicated to bridging rigorous statistical principles with cutting-edge deep learning models.
 ---
 
 ### 🔧 My Tech Stack & Tools
