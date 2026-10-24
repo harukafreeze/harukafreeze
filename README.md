@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 ### 📫 How to Reach Me
 
 - **Email:** [xiva0001@163.com](mailto:xiva0001@163.com)
-- **Vice Email:** [wangshuoxiang@neau.edu.cn](mailto:wangshuoxiang@neau.edu.cn)
 
 ---
